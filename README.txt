@@ -1,3 +1,4 @@
+Hotel Reservation Application
 Name: Rohan Doulakar
 
 Brief Description: main.cc is used for testing
